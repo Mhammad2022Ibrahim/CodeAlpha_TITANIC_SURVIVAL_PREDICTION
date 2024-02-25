@@ -22,7 +22,7 @@ The dataset used in this project is stored in titanic.csv, which includes the fo
 
 To run the notebook, you need to have Jupyter installed. You can install it via Anaconda or pip. Once installed, you can start Jupyter by running `jupyter notebook` or `jupyter lab` in your terminal, and then navigate to the notebook file (`Code_Alpha_Titanic_Prediction.ipynb`).
 
-Alternatively, you can open the notebook in Google Colab. Just upload the notebook file to your Google Drive and open it with Google Colab.
+Alternatively, you can open the notebook in `Google Colab`. Just upload the notebook file to your `Google Drive` and open it with `Google Colab`.
 
 ## Models
 
