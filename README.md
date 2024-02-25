@@ -4,7 +4,7 @@
 This repository contains a Jupyter notebook that explores the Titanic dataset and uses machine learning to predict passenger survival.
 
 ## Dataset
-The dataset used in this project is stored in titanic.csv, which includes the following features:
+The dataset used in this project is stored in `titanic.csv`, which includes the following features:
 
 - `survival`: Survival (0 = No; 1 = Yes)
 - `class`: Passenger Class (1 = 1st; 2 = 2nd; 3 = 3rd)
@@ -34,7 +34,7 @@ The notebook includes the following models:
 - Support Vector Machines
 - Gradient Boosting Machines (XGBoost)
 
-Each model is trained and evaluated using accuracy, precision, recall, and F1-score.
+Each model is trained and evaluated using `accuracy, precision, recall, and F1-score`.
 
 ## Contributing
 
