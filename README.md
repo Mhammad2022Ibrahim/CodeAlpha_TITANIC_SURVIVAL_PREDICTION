@@ -33,7 +33,8 @@ The notebook includes the following models:
 - Random Forest
 - Support Vector Machines
 - Gradient Boosting Machines (XGBoost)
-
+- Neural Networks
+  
 Each model is trained and evaluated using `accuracy, precision, recall, and F1-score`.
 
 ## Contributing
